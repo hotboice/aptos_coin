@@ -1,10 +1,10 @@
 ## aptos coin
 
-compile
+### compile
 aptos move compile --save-metadata
 
-publish
+### publish
 aptos move publish
 
-register test coin
+### register test coin
 yarn start
