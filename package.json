@@ -1,0 +1,12 @@
+{
+  "name": "test_coin",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "aptos": "^1.6.0"
+  }
+}

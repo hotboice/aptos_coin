@@ -1,0 +1,10 @@
+[package]
+name = 'xjj'
+version = '1.0.0'
+
+[dependencies]
+AptosFramework = {git = 'https://github.com/aptos-labs/aptos-core.git', rev = 'mainnet', subdir = 'aptos-move/framework/aptos-framework'}
+MoveStdlib = {git = 'https://github.com/aptos-labs/aptos-core.git', rev = 'mainnet', subdir = 'aptos-move/framework/move-stdlib'}
+
+[addresses]
+xjj = '0xcafe'
